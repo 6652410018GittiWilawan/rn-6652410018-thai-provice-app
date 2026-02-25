@@ -87,7 +87,7 @@ const HomeScreen = () => {
       </ImageBackground>
 
       <View style={styles.contentSection}>
-        <Text style={styles.sectionTitle}>Curated Experiences</Text>
+        <Text style={styles.sectionTitle}>แหล่งท่องเที่ยว</Text>
 
         <View style={styles.categoryTabs}>
           {categories.map((category) => (
