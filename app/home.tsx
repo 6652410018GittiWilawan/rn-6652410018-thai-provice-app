@@ -78,10 +78,6 @@ const HomeScreen = () => {
           <Text style={styles.subTitle}>
             พระธาตุขามแก่น เสียงแคนดอกคูน ศูนย์รวมผ้าไหม ร่วมใจผูกเสี่ยว เที่ยวขอนแก่นนครใหญ่ ไดโนเสาร์สิรินธรเน่ สุดเท่เหรียญทองแรกมวยโอลิมปิก
           </Text>
-
-          <TouchableOpacity style={styles.exploreBtn}>
-            <Text style={styles.exploreBtnText}>เริ่มเที่ยว</Text>
-          </TouchableOpacity>
         </View>
 
       </ImageBackground>
